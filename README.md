@@ -10,6 +10,8 @@ We have uploaded all the code written to reproduce the experiments and both the 
 The two datasetReaders produce the results in two files, output.txt and outputOpt.txt <br>
 The PaperESA is our paper with all the result included while our PowerPoint presentation is the FinalProject.pptx file.
 <br>
+Language and library used: Python 3.6, NumPy, SciKit <br>
+
 <h3>Team</h3><br>
 Name: ESA <br>
 Federico Boarelli<br>
