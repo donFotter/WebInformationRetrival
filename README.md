@@ -1,4 +1,4 @@
-# WebInformationRetrival
+# Web Information Retrival - Team ESA Final Project
 Project for the Web Information Retrival class, Master Degree in Computer Engineering @ La Sapienza, Università di Roma<br>
 
 <h3>Introduction:</h3>
