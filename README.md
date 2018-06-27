@@ -18,4 +18,9 @@ Federico Boarelli<br>
 Luca Carbone<br>
 Marco Cuoci<br>
 
-Academic Year 2017/2018
+Academic Year 2017/2018 <br>
+
+<h3>References</h3><br>
+Identifying document topics using the Wikipedia category network, by Peter Schonofen
+https://dl.acm.org/citation.cfm?id=1249180
+
